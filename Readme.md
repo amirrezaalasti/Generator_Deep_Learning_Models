@@ -7,7 +7,7 @@ This repository contains solutions for the "Deep Learning Foundations" course pr
 - `DC_GAN.ipynb`: Jupyter Notebook implementing the DCGAN architecture, training process, and evaluation on the Fashion-MNIST dataset.
 - `VAE.ipynb`: Jupyter Notebook implementing the VAE architecture, training process, and evaluation on the CIFAR-10 dataset.
 - `tensorboard.sh`: Shell script to launch TensorBoard for monitoring training progress.
-- `DC-GAN-LOSS.png`, `GAN.png`, `VAE-loss-function.png`: Images depicting loss functions and model architectures used in the project.
+- `images/DC-GAN-LOSS.png`, `images/GAN.png`, `images/VAE-loss-function.png`: Images depicting loss functions and model architectures used in the project.
 - `data/`: Directory containing datasets used for training and evaluation.
 - `runs/`: Directory storing TensorBoard logs for training visualization.
 
